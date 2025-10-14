@@ -1,0 +1,17 @@
+{
+  "name": "mediabot",
+  "version": "1.0.0",
+  "description": "Бот для поздравлений в медиацентре",
+  "license": "MIT",
+  "author": "DomamaN202",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  	"once": "node index.js",
+    "test": "node index.js --reset && node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "form-data": "^4.0.4"
+  }
+}

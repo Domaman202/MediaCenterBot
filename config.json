@@ -1,0 +1,14 @@
+{
+    "groupId": "ID ГРУППЫ ВК",
+    "accessToken": "ТОКЕН ВК",
+    "apiVersion": "5.199",
+    "lockFile": "date.lock",
+    "fromGroup": 1,
+    "googleSearch": {
+        "enable": true,
+        "apiKey": "КЛЮЧ ОТ ГУГЛА",
+        "searchEngineId": "ID ПОИСКОВИКА",
+        "query": "красивые поздравительные открытки с днем рождения",
+        "fallbackToLocal": true
+    }
+}
